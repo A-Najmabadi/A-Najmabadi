@@ -16,13 +16,13 @@
 
 - 📫 How to reach me **alinajmabadizadeh2002@gmail.com**
 
-- ⚡ Fun fact: Pizza🍕 is the reason to live.
+- ⚡ Fun fact: Pizza🍕 is one of the most important reasons to live.
 
 <br>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://www.linkedin.com" target="blank"><img align="center"
+  <a href="https://www.linkedin.com/in/ali-najmabadizadeh/" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
       alt="adam pithewan" height="30" width="40" /></a>
   <a href="https://instagram.com/alinajmabadizadeh" target="blank"><img align="center"
